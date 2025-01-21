@@ -2,10 +2,10 @@
 This project utilizes deep learning techniques to classify potato plants into three categories based on images: Late Blight, Early Blight, or Healthy. The classification is performed using a convolutional neural network (CNN) trained on a dataset of potato plant images affected by various diseases.
 
 ## Table of Contents
-Project Overview
-Dataset
-Model Architecture
-Project Overview
+1) Project Overview
+2) Dataset
+3) Model Architecture
+
 The model can predict whether a potato plant is infected with Late Blight, Early Blight, or is Healthy based on images provided by the user. Early detection of these diseases is crucial for farmers to take necessary actions and prevent widespread damage to crops.
 
 ## Dataset 
