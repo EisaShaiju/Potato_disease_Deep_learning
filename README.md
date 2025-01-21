@@ -11,9 +11,9 @@ The model can predict whether a potato plant is infected with Late Blight, Early
 ## Dataset 
 The dataset consists of labeled images of potato plants categorized into three classes:
 
-Late Blight: Images of potato plants affected by late blight disease.
-Early Blight: Images of potato plants affected by early blight disease.
-Healthy: Images of healthy potato plants with no visible disease.
+1. Late Blight: Images of potato plants affected by late blight disease.
+2. Early Blight: Images of potato plants affected by early blight disease.
+3. Healthy: Images of healthy potato plants with no visible disease.
 The dataset was collected from kaggle.
 
 ## Model Architecture
